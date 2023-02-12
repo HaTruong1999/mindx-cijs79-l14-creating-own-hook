@@ -1,4 +1,4 @@
-export default function Products({type, productImg, productTitle, productPrice, onSubmit}) {
+export default function Product({type, productImg, productTitle, productPrice, onSubmit}) {
     
     return (
       <div className="product">
