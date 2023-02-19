@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mindx-cijs79-l14-creating-own-hook/static/css/main.fc0faf23.css",
+    "main.js": "/mindx-cijs79-l14-creating-own-hook/static/js/main.dd46051f.js",
+    "static/js/787.d0e041d2.chunk.js": "/mindx-cijs79-l14-creating-own-hook/static/js/787.d0e041d2.chunk.js",
+    "index.html": "/mindx-cijs79-l14-creating-own-hook/index.html",
+    "main.fc0faf23.css.map": "/mindx-cijs79-l14-creating-own-hook/static/css/main.fc0faf23.css.map",
+    "main.dd46051f.js.map": "/mindx-cijs79-l14-creating-own-hook/static/js/main.dd46051f.js.map",
+    "787.d0e041d2.chunk.js.map": "/mindx-cijs79-l14-creating-own-hook/static/js/787.d0e041d2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc0faf23.css",
+    "static/js/main.dd46051f.js"
+  ]
+}
